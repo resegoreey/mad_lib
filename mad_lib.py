@@ -1,4 +1,4 @@
-name = input("Input a noun: ")
+name = input("Input a name: ")
 adjective = input("Input an adjective: ")
 adverb = input("Choose and adverb: ")
 exclamation = input("Input your favorite exclamation: ")
